@@ -59,7 +59,13 @@ A key aspect of the project is inclusivity. The system is designed to support us
 
 ## Screenshots
 
-(Add your screenshots here to demonstrate the user interface and gameplay)
+<img width="982" height="725" alt="image" src="https://github.com/user-attachments/assets/46ba17b7-4d6c-4b1a-a614-f18a53afc89a" />
+<img width="1363" height="725" alt="image" src="https://github.com/user-attachments/assets/a4b541d7-04db-4353-a919-40840ac6d9b6" />
+<img width="1268" height="733" alt="image" src="https://github.com/user-attachments/assets/451c7855-20bb-4fa5-bd33-8e4df1244513" />
+<img width="1340" height="721" alt="image" src="https://github.com/user-attachments/assets/5962b7da-ffc6-4855-819b-51b14747b1f8" />
+<img width="1314" height="731" alt="image" src="https://github.com/user-attachments/assets/7cf96345-a413-4e63-9649-4e0692499ab7" />
+
+
 
 
 
