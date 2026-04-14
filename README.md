@@ -103,3 +103,21 @@ A key aspect of the project is inclusivity. The system is designed to support us
 ## Conclusion
 
 ECHOKNIGHT is a step toward making digital gaming more inclusive and accessible. By combining voice recognition, artificial intelligence, and immersive design, the application provides a unique and meaningful chess experience. It enables users to interact with the game in a natural way, promotes independence, and ensures that everyone can enjoy the strategic depth of chess regardless of physical limitations.
+
+Due to the large size of certain game assets (such as 3D models, textures, and other heavy resource files), this repository does not include all the original project assets.
+
+Only the essential components of the project have been uploaded, including:
+
+C# scripts
+Core project files
+Selected lightweight assets required for understanding the project structure
+
+The excluded assets are primarily related to high-size game objects and materials used within the Unity environment.
+
+How to Use
+
+To run the project successfully:
+
+Open the project in Unity
+Recreate or import the required assets (models, materials, textures) as needed
+Ensure all missing references are properly reassigned within the Unity Editor
